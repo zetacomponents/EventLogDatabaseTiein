@@ -38,7 +38,13 @@
     },
     "description": "Contains the database writer backend for the EventLog component.",
     "homepage": "https://github.com/zetacomponents",
-    "license": "apache2",
+    "license": "Apache-2.0",
     "name": "zetacomponents/event-log-database-tiein",
-    "type": "library"
+    "type": "library",
+        "require": {
+            "zetacomponents/base": "*"
+        },
+        "require-dev": {
+            "zetacomponents/unit-test": "*"
+        }
 }
