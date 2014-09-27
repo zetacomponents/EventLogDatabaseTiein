@@ -1,4 +1,4 @@
-1.1 - Saturday 20 September 2014
+1.1 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Fixed issue #13658: tutorial_autoload.php fails under Windows.
@@ -8,6 +8,7 @@
 - Fixed: Updated copyright dates in NOTICE files.
 - Remove custom test runner.
 - Fix autoloading with composer
+
 
 1.0.2 - Monday 25 June 2007
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
